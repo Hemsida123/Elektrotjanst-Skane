@@ -1,0 +1,22 @@
+Kontrollerat 20 november 2026
+
+Företag, kontaktuppgifter, tjänster, logotyp och originalbilder:
+https://elrenovering.se/
+https://elrenovering.se/om
+https://elrenovering.se/tjänster
+
+Företagets befintliga butik, produkter och kompletterande tjänsteinformation:
+https://www.superdealen.se/
+https://www.superdealen.se/products/om
+https://www.superdealen.se/products/brf-foretag-och-lantbruk
+https://www.superdealen.se/products/odrift
+
+Omdömen, betyg och antal:
+https://www.reco.se/elektrotjanst-i-skane-ab
+Citat Simon T: https://www.reco.se/v/review/3356341
+Citat Daniel S: https://www.reco.se/v/review/3331319
+Originalwidget: https://widget.reco.se/v2/venues/3433495/horizontal/xlarge?inverted=false&border=true&lang=sv
+
+Manrope: https://github.com/google/fonts/tree/main/ofl/manrope
+Phosphor-ikoner: https://github.com/phosphor-icons/core
+Licenstexter medföljer i licenses/.

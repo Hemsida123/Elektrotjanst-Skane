@@ -1,0 +1,49 @@
+ELEKTROTJÄNST I SKÅNE – FÄRDIGA WEBBFILER
+
+Öppna index.html för startsidan. Alla HTML-filer, styles.css, script.js,
+favicon.svg och hela assets-mappen ska ligga tillsammans. Bilder och
+typsnitt följer med lokalt, så inga bildlänkar behöver kopplas om.
+
+GITHUB PAGES
+Ladda upp hela innehållet i denna mapp till ditt repository.
+Behåll filnamn och undermappar. Aktivera Pages från rätt branch.
+.nojekyll följer med. Sidan fungerar även under en GitHub-projektadress.
+
+WEBBHOTELL
+Ladda upp innehållet till webbplatsens public_html eller motsvarande.
+Sidan kräver ingen databas, installation eller byggprocess.
+Ta en säkerhetskopia av befintliga filer före byte av liveversion.
+Behåll eventuella befintliga e-post- och serverinställningar.
+
+KONTAKT OCH KÖP
+Telefon: 076-306 54 40
+E-post: info@elrenovering.se
+Kontaktvalet öppnar besökarens mejlprogram. Det är inte ett serverformulär.
+Produkter och köp länkas till företagets befintliga butik Superdealen.
+Ingen kassa, betalningshantering eller orderlagring har byggts in här.
+
+RECO
+Startsidan visar 4,7/5 från 34 omdömen, kontrollerat 20 november 2026.
+Uppdatera den manuella sammanfattningen om betyget ändras.
+På omdomen.html finns företagets riktiga Reco-widget, som hämtar aktuellt
+innehåll när besökaren väljer ”Visa Reco-omdömen”.
+
+SEO
+Varje sida har egen titel, beskrivning, huvudrubrik, canonical och delningsdata.
+Strukturerad företags- och tjänstedata, robots.txt och sitemap.xml ingår.
+Den tänkta slutliga domänen är https://elrenovering.se/.
+Om slutdomänen ändras: ändra canonical, og:url, og:image, JSON-LD,
+robots.txt och sitemap.xml till den nya domänen.
+Ordna permanenta omdirigeringar från gamla adresser vid ett skarpt byte,
+bland annat /om till /om-oss.html och /tjänster till /tjanster.html.
+Skicka sedan sitemap.xml till Google Search Console.
+SEO-arbetet innebär ingen garanti för en viss placering i Google.
+
+BILDER OCH INNEHÅLL
+Företagsbilder, logotyp och produktbilder kommer från elrenovering.se och
+dess länkade butik superdealen.se. Huvudbilden är DEFA-produktmaterial från
+företagets befintliga mediebibliotek, inte ett påstått kundprojekt.
+Projektgalleriet använder företagets egna installationsbilder.
+Källförteckning och licenser finns i KALLOR.txt och licenses/.
+
+Detta är en separat ny webbversion. Den befintliga webbplatsen är inte ändrad.
